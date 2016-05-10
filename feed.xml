@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+  <channel>
+    <atom:link href="http://theshift.show/feed.xml" rel="self" type="application/rss+xml" />
+    <title>the shift</title>
+    <link>http://theshift.show</link>
+    <language>en-us</language>
+    <description>A weekly show where Mark and Gordon muse over baseball and bullshit</description>
+
+    <itunes:subtitle>Baseball and Bullshit</itunes:subtitle>
+    <itunes:author>Mark Adams and Gordon Fontenot</itunes:author>
+    <itunes:summary>A weekly show where Mark and Gordon muse over baseball and bullshit</itunes:summary>
+
+    <itunes:owner>
+      <itunes:name>Mark Adams and Gordon Fontenot</itunes:name>
+      <itunes:email>hosts@theshift.show</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://images.theshift.show/itunes-cover-art.png" />
+
+    <itunes:category text="Sports & Recreation">
+      <itunes:category text="Professional"/>
+    </itunes:category>
+
+    <itunes:explicit>yes</itunes:explicit>
+
+    
+
+  </channel>
+</rss>
