@@ -4,12 +4,11 @@
 
   <channel>
     <atom:link href="http://theshift.show/feed.xml" rel="self" type="application/rss+xml" />
-    <title>the shift</title>
+    <title>The Shift</title>
     <link>http://theshift.show</link>
     <language>en-us</language>
     <description>A weekly show where Mark and Gordon muse over baseball and bullshit</description>
 
-    <itunes:subtitle>Baseball and Bullshit</itunes:subtitle>
     <itunes:author>Mark Adams and Gordon Fontenot</itunes:author>
     <itunes:summary>A weekly show where Mark and Gordon muse over baseball and bullshit</itunes:summary>
 
